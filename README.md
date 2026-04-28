@@ -120,3 +120,9 @@ When moving, type a compass direction (e.g. `North`, `N`, `south`, `s` not case-
 ## Ending the Game
 
 Navigate to `2,2` (Grass Plains) and move **South** to find the glowing exit portal. Your final inventory will be displayed, showing every item you collected throughout your journey.
+
+---
+
+## Licence
+
+This project is provided for educational purposes only as part of course work for Computer Programming at Algonquin College, Ottawa, ON, Canada.
